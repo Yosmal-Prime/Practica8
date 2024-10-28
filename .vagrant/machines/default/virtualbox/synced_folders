@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"SharedFoldersEnableSymlinksCreate":false,"guestpath":"/var/www/html","hostpath":"C:/Users/Yosmal/Desktop/Clases/Practica8-Vagrant/web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Yosmal/Desktop/Clases/Practica8-Vagrant","disabled":false,"__vagrantfile":true}}}
